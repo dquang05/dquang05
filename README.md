@@ -1,7 +1,7 @@
 ### Tran Danh Quang
 Mechatronics Engineering Student @ HCMUT (GPA: 3.7/4.0)
 
-[LinkedIn](https://www.linkedin.com/in/danh-quang-tr%E1%BA%A7n-6591a040b/) | [LeetCode]([YOUR_LEETCODE_URL](https://leetcode.com/u/TranDanhQuang/) | trandanhquang2005@gmail.com
+[LinkedIn](https://www.linkedin.com/in/danh-quang-tr%E1%BA%A7n-6591a040b/) | [LeetCode](https://leetcode.com/u/TranDanhQuang/) | trandanhquang2005@gmail.com
 
 I focus on Embedded Software and low-level firmware development. My approach is to understand systems from the ground up, prioritizing bare-metal programming and fundamentals over relying solely on high-level libraries. Alongside hardware development, I maintain a regular algorithmic practice (LeetCode) to sharpen my problem-solving speed.
 
