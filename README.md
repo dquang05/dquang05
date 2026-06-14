@@ -14,4 +14,4 @@ I focus on Embedded Software and low-level firmware development. My approach is 
 * **[ATmega328P HAL & UART Bootloader](https://github.com/dquang05/avr328p-hal):** Built GPIO, UART, and I2C drivers from scratch using register-level programming. Implemented a custom UART-based IAP bootloader with flash verification.
 * **[ESP32 AMR Controller](https://github.com/dquang05/AMR):** Developed FreeRTOS-based firmware managing LiDAR, IMU, and motion control. Designed the custom PCB using KiCad.
 * **[Embedded Linux on ARM64](https://github.com/dquang05/OS_Learning):** Cross-compiled the Linux kernel and built a custom BusyBox RootFS, booting successfully on QEMU.
-* **[PIC16F887 Bare-metal Controller](https://github.com/dquang05/embLinux):** Journey on practicing fundamentals and syntax (C/C++ ) in Embedded Linux.
+* **[Embedded Linux on application level](https://github.com/dquang05/embLinux):** Journey on practicing fundamentals and syntax (C/C++ ) in Embedded Linux.
