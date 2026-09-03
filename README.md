@@ -1,3 +1,4 @@
+<!-- Profile Header -->
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Danh Quang!](https://github.com/dquang05) !!
 
 <hr/>
@@ -6,11 +7,18 @@
 
 Hey, my name is Tran Danh Quang. I'm a Mechatronics Engineering student at HCMUT. I focus on Embedded Software and low-level firmware development. My approach is to understand systems from the ground up, prioritizing bare-metal programming and fundamentals over relying solely on high-level libraries. I also maintain a regular algorithmic practice to sharpen my problem-solving speed.
 
-## Coding Profiles
+<hr/>
 
-<a href="https://leetcode.com/u/TranDanhQuang/">
-  <img alt="Quang's LeetCode Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<!-- Projects Section -->
+## My Projects and Repositories listed below
+
+<h2 align="center">Please Show Some Love :hugs: </h2>
+
+| SL No | Project Name | Description | Link | Tech Stack |
+| :---: | ------------ | ----------- | :--- | ---------- |
+| 1 | ATmega328P HAL & UART Bootloader | Built GPIO, UART, and I2C drivers from scratch. Custom UART-based IAP bootloader | https://github.com/dquang05/avr328p-hal | C, AVR, Bare-metal |
+| 2 | ESP32 AMR Controller | FreeRTOS-based firmware managing LiDAR, IMU, motion control and custom PCB design | https://github.com/dquang05/AMR | C++, FreeRTOS, ESP32, KiCad |
+| 3 | Embedded Linux App Level | A self-study project to learn Linux, covering syntax from kernel to user space, and from C to modern C++ | https://github.com/dquang05/embLinux | C, Modern C++, Embedded Linux |
 
 <hr/>
 
@@ -78,8 +86,6 @@ Hey, my name is Tran Danh Quang. I'm a Mechatronics Engineering student at HCMUT
 </h1>
 
 <div align="center">
-
-![Quang's Github Status](https://github-readme-stats.vercel.app/api?username=dquang05&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
